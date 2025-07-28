@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dhruv Singh</h1>
-<h3 align="center">CSE Undergrad@IIT Mandi. I'm interested in Deep Learning, Robotics(Autonomous Traversal & robot learning). I also like to do competitive programming</h3>
 
 
 - 📫 How to reach me **dhruvsinghcs26@gmail.com**
